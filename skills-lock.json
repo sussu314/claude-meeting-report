@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "hwpx": {
+      "source": "jkf87/hwpx-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "f9b387e5d875038bf120f8aad1c89de5120a5cf739190200e35d9b01289399dd"
+    }
+  }
+}
